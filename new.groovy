@@ -42,8 +42,27 @@ if (row < n) {
 	result["lastName"] = lastName
 	result["dob"] = dob
     
-    testRunner.testCase.testSteps["DataSource"].currentRow
- 
+   2
+
+
+    result["randomId"] = randomId
+	result["firstName"] = firstName
+	result["middleName"] = middleName
+	result["lastName"] = lastName
+	result["dob"] = dob
+
+    3
+    result["randomId"] = randomId
+	result["firstName"] = firstName
+	result["middleName"] = middleName
+	result["lastName"] = lastName
+	result["dob"] = dob
+    4
+    result["randomId"] = randomId
+	result["firstName"] = firstName
+	result["middleName"] = middleName
+	result["lastName"] = lastName
+	result["dob"] = dob
 }
 
 
