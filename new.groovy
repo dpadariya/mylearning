@@ -22,8 +22,12 @@ def generateRandomDOB() {
     LocalDate.of(year, month, day).format(DateTimeFormatter.ofPattern("yyyy-MM-dd"))
 }
 
+def row = testRunner.testCase.testSteps["DataSource"].currentRow
+def n = 3 
  
- 
+ def row = testRunner.testCase.testSteps["DataSource"].currentRow
+def n = 3
+
 def row = testRunner.testCase.testSteps["DataSource"].currentRow
 def n = 3
  
