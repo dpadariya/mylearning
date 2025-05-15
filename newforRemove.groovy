@@ -70,6 +70,8 @@ testRunner.testCase.setPropertyValue("date_of_birth", dob)
 log.info("This is a message")
 
 log.info("This is a message")
+log.info("This is a message")
+log.info("This is a message")
 
 log.info("id: " +randomId.toString())
 log.info("first_name: " + firstName)
