@@ -67,14 +67,3 @@ testRunner.testCase.setPropertyValue("middle_name", middleName)
 testRunner.testCase.setPropertyValue("last_name", lastName)
 testRunner.testCase.setPropertyValue("date_of_birth", dob)
 
-log.info("This is a message")
-
-log.info("This is a message")
-log.info("This is a message")
-log.info("This is a message")
-123
-log.info("id: " +randomId.toString())
-log.info("first_name: " + firstName)
-log.info("middle_name: " +middleName )
-log.info("last_name: " + lastName)
-log.info("date_of_birth: " +dol )
