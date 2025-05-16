@@ -67,10 +67,6 @@ testRunner.testCase.setPropertyValue("middle_name", middleName)
 testRunner.testCase.setPropertyValue("last_name", lastName)
 testRunner.testCase.setPropertyValue("date_of_birth", dob)
 
-log.info("This is a message")
-
-log.info("This is a message")
-log.info("This is a message")
 <<<<<<< Updated upstream
 log.info("This is a message")
 =======
