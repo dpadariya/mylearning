@@ -61,13 +61,8 @@ if (row < n) {
 	result["middleName"] = middleName
 	result["lastName"] = lastName
 	result["dob"] = dob
-    4
-	   3
-    result["randomId"] = randomId
-	result["firstName"] = firstName
-	result["middleName"] = middleName
-	result["lastName"] = lastName
-	result["dob"] = dob
+    123
+    
 
 }
 
