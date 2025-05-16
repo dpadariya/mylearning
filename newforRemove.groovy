@@ -90,4 +90,7 @@ log.info("first_name: " + firstName)
 log.info("middle_name: " +middleName )
 log.info("last_name: " + lastName)
 log.info("date_of_birth: " +dob )
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
